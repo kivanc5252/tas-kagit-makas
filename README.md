@@ -19,7 +19,7 @@ Bu proje benim **ilk web projem.** Amacım:
 ## 🚀 Nasıl Çalıştırılır?
 `index.html` dosyasını tarayıcıda aç, oyun başlar.
 
-Canlı demo: [Buradan oyna](https://kivanc5252.github.io/tas-kagit-makas)
+Canlı demo: [Buradan oyna](https://kivanc5252.github.io/tas-kagit-makas/)
 
 ## 📚 Öğrenme Sürecim
 Bu projeyi geliştirirken **yardım aldım.** 
